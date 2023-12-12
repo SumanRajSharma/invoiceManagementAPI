@@ -1,0 +1,17 @@
+{
+  "name": "invoicemanangementapi",
+  "version": "1.0.0",
+  "description": "## Overview This project is an API developed using Node.js and MongoDB, leveraging the Mongoose library. It is specifically designed to assist in creating and managing invoices, tailored to specific business needs. This document outlines the structure and functionalities of the API, showcasing the API building skills and approach to problem-solving.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^8.0.3"
+  }
+}
